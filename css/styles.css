@@ -76,3 +76,51 @@ body {
     font-weight: 100;
     margin-top: -20px;
 }
+
+
+.main {
+    padding: 80px 180px 80px 100px;
+
+}
+
+/* .main img {
+    float: right;
+    width: 200px;
+} */
+
+.main h1{
+    color: white;
+    font-weight: normal;
+}
+
+.main h2 {
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+.main h3 {
+    color: #f27609;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.main p {
+    color: white;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: justify;
+}
+
+.bread-crumbs {
+    list-style: none;
+    padding-left: 0;
+    color: gray;
+}
+
+.bread-crumbs li {
+    display: inline-block;
+}
