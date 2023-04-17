@@ -124,3 +124,8 @@ body {
 .bread-crumbs li {
     display: inline-block;
 }
+
+ion-icon {
+    color: white;
+    font-size: 40px;
+  }
