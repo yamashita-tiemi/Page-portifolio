@@ -8,6 +8,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+ion-icon {
+    color: white;
+    font-size: 40px;
+}
+
 
 .navigation {
     /* background-color: #2b2b2b; */
@@ -48,6 +53,8 @@ body {
     height: 650px;
 }
 
+
+
 .profile-picture {
     width: 40%;
     text-align: center;
@@ -76,6 +83,8 @@ body {
     font-weight: 100;
     margin-top: -20px;
 }
+
+
 
 
 .main {
@@ -115,6 +124,8 @@ body {
     text-align: justify;
 }
 
+
+
 .bread-crumbs {
     list-style: none;
     padding-left: 0;
@@ -125,7 +136,18 @@ body {
     display: inline-block;
 }
 
-ion-icon {
-    color: white;
-    font-size: 40px;
-  }
+
+
+.miniatura {
+    width: 320px;
+    height: 320px;
+    display: inline-block;
+}
+
+
+
+.foto-trabalhos {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
