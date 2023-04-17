@@ -236,10 +236,12 @@ ion-icon {
         display: inline-block;
     }
 
+
     .capa div {
         display: block;
         height: auto;
     }
+
 
     .profile-picture {
         width: 100%;
@@ -250,6 +252,7 @@ ion-icon {
         margin-top: 20px;
     }
 
+
     .profile-title {
         width: 100%;
         text-align: center;
@@ -258,6 +261,27 @@ ion-icon {
     .profile-title h1 {
         font-size: 40px;
         margin-top: 30px;
+    }
+
+
+    .main {
+        padding: 10px 5% 40px 5%;
+    }
+
+    .main p {
+        line-height: 30px;
+    }
+
+
+    .bread-crumbs li {
+        font-size: 12px;
+    }
+
+
+    .miniatura {
+        max-width: 100%;
+        background-size: auto 100%;
+        margin-bottom: 10px;
     }
     
 }
