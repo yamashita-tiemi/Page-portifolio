@@ -37,6 +37,18 @@ ion-icon {
     font-size: 18px;
 }
 
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: #f27609;
+}
+
+.navigation li.three-line-icon {
+    display: none;
+}
 
 
 .capa {
@@ -136,6 +148,10 @@ ion-icon {
     display: inline-block;
 }
 
+.bread-crumbs a {
+    color: gray;
+}
+
 
 
 .miniatura {
@@ -150,4 +166,10 @@ ion-icon {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+
+
+.back-link {
+    color: #f27609;
 }
